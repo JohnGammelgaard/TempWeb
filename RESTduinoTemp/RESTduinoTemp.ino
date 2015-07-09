@@ -9,7 +9,7 @@
  * http://blog.thiseldo.co.uk
  * Feel free to use this code, modify and redistribute.
  * 
- *Hej Johns
+ *Hej John
  */
 #define DEBUG 1
 //#undef DEBUG
